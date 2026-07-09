@@ -75,27 +75,7 @@ The following DAX measures were developed to support KPI reporting, trend analys
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas per Order
-- Total Revenue (MTD)
-- Previous Month Revenue (PMTD)
-- Revenue Growth
-- Revenue Growth %
-- Total Orders (MTD)
-- Previous Month Orders (PMTD)
-- Order Growth
-- Order Growth %
-- Total Pizzas Sold (MTD)
-- Previous Month Pizzas Sold (PMTD)
-- Pizza Sales Growth
-- Pizza Sales Growth %
-- Average Order Value (MTD)
-- Previous Month Average Order Value (PMTD)
-- Average Order Value Growth
-- Average Order Value Growth %
-- Average Pizzas per Order (MTD)
-- Previous Month Average Pizzas per Order (PMTD)
-- Average Pizzas per Order Growth
-- Average Pizzas per Order Growth %
-
+  
 ---
 
 ## SQL Techniques Used
